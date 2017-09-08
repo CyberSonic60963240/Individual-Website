@@ -1,0 +1,72 @@
+/* What is "Inheritance" in CSS? What is the "Cascade" in CSS? */
+
+.box {
+	min-height: 200px;
+}
+
+.green {
+	background-color: #60FF00;
+}
+
+.greenish {
+	background-color: #3A9A00;
+}
+
+.yellow {
+	background-color: #FBFF00;
+}
+
+.box2 {
+	min-height:1000px;
+	min-width: 9.5%;
+}
+
+.Dandelion {
+	background-color: #60FF00;
+	display: inline-block;
+}
+
+.Dandelion2 {
+	background-color: #00FF4A;
+	display: inline-block;
+}
+
+.blue {
+	background-color: #00C4FF;
+	display: inline-block;
+}
+
+.bluish {
+	background-color: #006989;
+	display: inline-block;
+}
+
+.purple {
+	background-color: #AB00FF;
+	display: inline-block;
+}
+
+.scarlet {
+	background-color: #6B0000;
+	display: inline-block;
+}
+
+.red {
+	background-color: #B30000;
+	display: inline-block;
+}
+
+.reddish {
+	background-color: #FF0000;
+	display: inline-block;
+}
+
+.orange {
+	background-color: #FF5000;
+	display: inline-block;
+}
+
+.bright {
+	background-color: #FFA000;
+	display: inline-block;
+}
